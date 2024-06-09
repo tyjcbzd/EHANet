@@ -1,4 +1,4 @@
-# :sunflower:: LANet: Lightweight Attention Network for Medical Image Segmentation 
+# :sunflower:: EHANet: Edge-guided and Hierarchical Aggregation Network for Robust Medical Image Segmentation(1)
 **This is the official implementation for article "Edge-guided and Hierarchical Aggregation Network for Robust Medical Image Segmentation".** 
 
 
@@ -6,12 +6,12 @@
 ## Overview
 
 ### Module 1
-**The EFA block enhances the model's feature extraction capability by capturing task-relevant information while reducing redundancy in channel and spatial locations.**
+**Description 1**
 
 
 
 ### Module 2
-**The AFF decoding block fuses the purified low-level features from the encoder with the sampled features from the decoder, enhancing the network's understanding and expression of input features.**
+**Description 2**
 
 
 ## 	:pencil: Requirements
