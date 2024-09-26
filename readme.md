@@ -3,6 +3,8 @@
 :exclamation: The full code will be released after accpetance.
 
 ## States
+- 29.08 Major revision
+- 15.07 Underview
 - 10.07.2024 - The article was submitted to Journal "Biomedical Signal Processing and Control" for review. 
 
 
