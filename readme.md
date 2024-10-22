@@ -3,6 +3,7 @@
 :exclamation: The full code will be released after accpetance.
 
 ## States
+- 22.10 Submit revised version
 - 29.08 Major revision
 - 15.07 Underview
 - 10.07.2024 - The article was submitted to Journal "Biomedical Signal Processing and Control" for review. 
@@ -18,7 +19,20 @@ This paper introduces a novel Edge-guided and Hierarchical Aggregation Network (
 ![Image 2](images/AHFA.png)
 
 
+## Results on Kvasir-SEG
+![Image 3](images/5_Kvasir_compare.png)
 
+## Results on DSB 2018
+![Image 4](images/6_DSB_compare.png)
+
+## Results on ISIC 2018
+![Image 5](images/7_ISIC_compare.png)
+
+## Results on LGG
+![Image 6](images/8_LGG_compare.png)
+
+## Grad-cam result
+![Image 7](images/9_grad_cam_compare.png)
 
 ## :black_nib: For citation
 waiting...
