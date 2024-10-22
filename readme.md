@@ -32,7 +32,7 @@ This paper introduces a novel Edge-guided and Hierarchical Aggregation Network (
 ![Image 6](images/8_LGG_compare.png)
 
 ## Grad-cam result
-<img src="images/9_grad_cam_compare.png" alt="Image 7" width="300" height="500"/>
+<img src="images/9_grad_cam_compare.png" alt="Image 7" width="300" height="400"/>
 
 ## :black_nib: For citation
 waiting...
