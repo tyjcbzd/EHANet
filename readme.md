@@ -3,6 +3,7 @@
 :exclamation: The full code will be released after accpetance.
 
 ## States
+- 15.11 Accepted and release code
 - 22.10 Submit revised version
 - 29.08 Major revision
 - 15.07 Underview
