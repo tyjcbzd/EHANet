@@ -1,7 +1,5 @@
 # :rainbow:: EHANet: Edge-guided and Hierarchical Aggregation Network for Robust Medical Image Segmentation
 
-:exclamation: The full code will be released after accpetance.
-
 ## States
 - 15.11 Accepted and release code
 - 22.10 Submit revised version
