@@ -34,6 +34,7 @@ This paper introduces a novel Edge-guided and Hierarchical Aggregation Network (
 <img src="images/9_grad_cam_compare.png" alt="Image 7" width="300" height="400"/>
 
 ## :black_nib: For citation
+```bibtex
 @article{tang2025edge,
   title={Edge-guided and hierarchical aggregation network for robust medical image segmentation},
   author={Tang, Yi and Zhao, Di and Pertsau, Dmitry and Gourinovitch, Alevtina and Kupryianava, Dziana},
@@ -43,5 +44,6 @@ This paper introduces a novel Edge-guided and Hierarchical Aggregation Network (
   year={2025},
   publisher={Elsevier}
 }
+```
 
 :exclamation: :eyes: **The codes can not be used for commercial purposes!!!**
